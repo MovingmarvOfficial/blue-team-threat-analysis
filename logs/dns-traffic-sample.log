@@ -1,0 +1,8 @@
+2025-02-17T10:00:01 WS-23 10.0.15.34 query google.com A
+2025-02-17T10:00:02 WS-23 10.0.15.34 query microsoft.com A
+2025-02-17T10:01:00 WS-23 10.0.15.34 query YWxhZGRpbjpvcGVuc2VzYW1l.example-domain.com A
+2025-02-17T10:02:00 WS-23 10.0.15.34 query QWxhZGRpbjpvcGVuU2VjdXJlQ2hhbm5lbA.example-domain.com A
+2025-02-17T10:03:00 WS-23 10.0.15.34 query U2Vuc2l0aXZlRGF0YVN0cmVhbQ.example-domain.com A
+2025-02-17T10:04:00 WS-23 10.0.15.34 query Q29tbWFuZENvbnRyb2xQYXlsb2Fk.example-domain.com A
+2025-02-17T10:05:00 WS-23 10.0.15.34 query U3RhdHVzQmVhY29uMTIzNA.example-domain.com A
+2025-02-17T10:06:00 WS-23 10.0.15.34 query U3RhdHVzQmVhY29uMTIzNA.example-domain.com A
