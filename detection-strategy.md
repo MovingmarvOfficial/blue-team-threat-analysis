@@ -37,3 +37,22 @@ Detect:
 - Egress filtering
 - DNS logging retention
 - Threat intelligence integration
+
+## Example Detection Logic (Pseudo SIEM Rule)
+
+IF
+    dns_query_count_per_host_per_minute > 50
+AND
+    average_subdomain_length > 25
+AND
+    repeating_interval_detected = true
+THEN
+    trigger_alert("Possible DNS Beaconing")
+
+---
+
+## Additional Detection Enhancements
+
+- Detect Base64-like character patterns
+- Flag newly registered domains
+- Alert on rare domains not previously contacted
