@@ -61,4 +61,8 @@ This repository includes a simulated DNS traffic log file for structured analysi
 logs/dns-traffic-sample.log
 
 The log is intentionally simplified for educational purposes and does not contain malicious payloads.
+## Analysis Artifacts
+
+The included DNS log file is simulated for educational purposes.
+It does not contain real attack traffic or malicious payloads.
 
