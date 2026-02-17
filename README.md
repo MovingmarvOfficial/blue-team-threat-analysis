@@ -53,3 +53,12 @@ Initial hypothesis: Possible DNS tunneling used for covert C2 communication or d
 ## Intended Use
 
 This case study is for educational and defensive security training purposes only.
+
+## Included Sample Data
+
+This repository includes a simulated DNS traffic log file for structured analysis:
+
+logs/dns-traffic-sample.log
+
+The log is intentionally simplified for educational purposes and does not contain malicious payloads.
+
